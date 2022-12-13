@@ -1,0 +1,27 @@
+
+
+.cuadradoprincipal{
+    display: flex;
+    
+}
+.boton1{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border: none;
+    cursor: pointer;
+}
+.boton2{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border: none;
+    cursor: pointer;
+}
+.boton3{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border: none;
+    cursor: pointer;
+}
